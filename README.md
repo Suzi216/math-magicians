@@ -13,12 +13,23 @@
 
 ## Getting Started
 
-**To be able to reproduce this project you need to copy the repository in your local workspace.**
-**Modify this file to match your project, remove sections that don't apply. Feel free to open a pull requests for any changes.**
-**Install the node.js**
-**Create a React application is using Create React App (CRA)**
-** Install and run all the linters from this link:https://github.com/microverseinc/linters-config/tree/master/react-redux**
-**Launch the project using this command npm start**
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+Have Acknowledgments about react.js.
+
+### Setup
+
+git clone: https://github.com/Suzi216/math-magicians.git
+
+### Install
+Install the node.js
+Install and run all the linters from this link:https://github.com/microverseinc/linters-config/tree/master/react-redux
+
+### Usage
+Launch the project using this command npm start
+
+
 
 ## Live Demo (if available)
 
