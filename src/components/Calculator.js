@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
 import calculate from '../logic/calculate';
-// import operate from '../logic/operate';
 
 class Calculator extends Component {
   constructor(props) {
     super(props);
-    // this.handleChange = this.handleCalc.bind(this);
     this.state = {
       total: 0,
       next: null,
