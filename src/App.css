@@ -1,11 +1,12 @@
 table {
   margin-left: auto;
   margin-right: auto;
+  margin-top: 50px;
   border-spacing: 0;
   border-collapse: collapse;
 }
 
-input[type="text"] {
+.result {
   width: 120%;
   padding: 15px 15px;
   font-size: 18px;
