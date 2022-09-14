@@ -1,0 +1,17 @@
+/* style for website */
+.navBar{
+  display: flex;
+  justify-content:flex-end;
+  flex-direction: row;
+  grid-gap: 5%;
+  list-style: none;
+  padding-right: 2%;
+  align-content: center;
+  align-items: center;
+}
+h1{
+  font-family: serif;
+  font-size: 45px;
+  font-weight: 500;
+  flex-grow: 3;
+}

@@ -12,6 +12,7 @@ const Calculator = () => {
     const item = calculate(items, data);
     setStates(item);
   };
+
   const { total, next, operation } = items;
   return (
     <div className="container">
