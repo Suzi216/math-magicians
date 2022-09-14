@@ -16,6 +16,7 @@ const Calculator = () => {
   const { total, next, operation } = items;
   return (
     <div className="container">
+      <h2> Lets do some math!</h2>
       <table cellSpacing="0">
         <tr>
           <td colSpan="3">
