@@ -1,0 +1,27 @@
+.home-container {
+  padding: 3%;
+}
+
+h5 {
+  font-family: serif;
+}
+
+h3 {
+  font-family: serif;
+  color: #f5913e;
+}
+
+p {
+  font-family: serif;
+  text-indent: 30px;
+}
+
+.quote-container {
+  width: 75%;
+  position: absolute;
+  left: 10%;
+  top: 50%;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+}
