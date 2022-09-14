@@ -34,13 +34,14 @@ table {
   border: none;
   border-radius: 5px;
 }
-.container{
+
+.container {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
 }
-h2{
-  font-family: serif;
+
+h2 {
+  font-family: serif, sans-serif;
   font-size: 40px;
-  font-size: 400;
 }
