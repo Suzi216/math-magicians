@@ -1,0 +1,427 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="container"
+>
+  <h2>
+     Lets do some math!
+  </h2>
+  <table
+    cellSpacing="0"
+  >
+    <tr>
+      <td
+        colSpan="3"
+      >
+        <div
+          className="result"
+        >
+          0
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="AC"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="+/-"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="%"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="÷"
+        />
+         
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="7"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="8"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="9"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="x"
+        />
+         
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="4"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="5"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="6"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="-"
+        />
+         
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="1"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="2"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="3"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="+"
+        />
+         
+      </td>
+    </tr>
+    <tr>
+      <td
+        colSpan="2"
+      >
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="0"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="."
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="="
+        />
+         
+      </td>
+    </tr>
+  </table>
+</div>
+`;
+
+exports[`renders correctly 2`] = `
+<div
+  className="container"
+>
+  <h2>
+     Lets do some math!
+  </h2>
+  <table
+    cellSpacing="0"
+  >
+    <tr>
+      <td
+        colSpan="3"
+      >
+        <div
+          className="result"
+        >
+          0
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="AC"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="+/-"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="%"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="÷"
+        />
+         
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="7"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="8"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="9"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="x"
+        />
+         
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="4"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="5"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="6"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="-"
+        />
+         
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="1"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="2"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="3"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="+"
+        />
+         
+      </td>
+    </tr>
+    <tr>
+      <td
+        colSpan="2"
+      >
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="0"
+        />
+         
+      </td>
+      <td>
+        <input
+          className="others"
+          onClick={[Function]}
+          type="button"
+          value="."
+        />
+         
+      </td>
+      <td>
+        <input
+          className="operants"
+          onClick={[Function]}
+          type="button"
+          value="="
+        />
+         
+      </td>
+    </tr>
+  </table>
+</div>
+`;
+
+exports[`renders correctly 3`] = `
+<div
+  className="quote-container"
+>
+  <q>
+    Spirit of Math -  Mathematics is not about numbers, equations, computations or algorithms; it is about understanding. - Willian Paul Thurston
+  </q>
+</div>
+`;
